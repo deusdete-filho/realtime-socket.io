@@ -19,7 +19,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :iphone: Telas
 
 <h4 align="center">
-    <img alt="Home" title="#home" src="gif.png">
+    <img alt="Home" title="#home" src="gif.gif">
 
 </h4>
 
